@@ -35,8 +35,3 @@ Visit the [IHerbSpec Protocol Website](https://iherbspec.github.io) for:
 - Downloadable links
 - Background on the working group and related publications
 
----
-
-## 👤 Maintainer
-
-- Dawson M. White ([Erythroxylum](https://github.com/Erythroxylum)) – dawson.white@gmail.com
