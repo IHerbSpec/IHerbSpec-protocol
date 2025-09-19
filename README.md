@@ -2,7 +2,7 @@
 
 This repository contains the official release files for **IHerbSpec Protocol**, developed by the International Herbarium Spectral Digitization Working Group (IHerbSpec). The protocol defines standardized procedures for collecting, managing, and documenting reflectance spectral measurements of herbarium specimens.
 
-📄 **Latest version:** v1.0  
+📄 **Latest version:** v1.01  
 🔗 **DOI:** https://doi.org/10.5281/zenodo.15849668  
 🌐 **Website:** https://iherbspec.github.io/protocol
 
@@ -24,9 +24,9 @@ This repository contains the official release files for **IHerbSpec Protocol**, 
 
 If you use this protocol or its components, please cite:
 
-> White DM, NI Ahlstrand, MW Austin, D Bastianelli, S Bazan, K Boughalmi, W Cardinal-McTeague, TLP Couvreur, F Durgante, OM Grace, JA Guzmán Q, K Hansen, M Hopkins, R Jackson, JA Kennedy, S Kothari, AK Lee, É Léveillé-Bourret, JE Meireles, BM Neto-Bradley, CO Nichodemus, NL Quinteros Casaverde, C Rodrigues-Vaz, M Schmull, PS Soltis, D Spalink, CC Vasconcelos, JL Viana, H Tuomisto, T Wells, J Cavender-Bares. 2025. *IHerbSpec Protocol v1.0.* Zenodo. https://doi.org/10.5281/zenodo.15849668
+> White DM, NI Ahlstrand, MW Austin, D Bastianelli, S Bazan, K Boughalmi, W Cardinal-McTeague, TLP Couvreur, F Durgante, OM Grace, JA Guzmán Q, K Hansen, M Hopkins, R Jackson, JA Kennedy, S Kothari, AK Lee, É Léveillé-Bourret, JE Meireles, BM Neto-Bradley, CO Nichodemus, NL Quinteros Casaverde, C Rodrigues-Vaz, M Schmull, PS Soltis, D Spalink, CC Vasconcelos, JL Viana, H Tuomisto, T Wells, J Cavender-Bares. 2025. *IHerbSpec Protocol v1.XX* Zenodo. https://doi.org/10.5281/zenodo.15849668
 
-## License
+## 📜 License
 - **Protocol text, figures, and tables**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
   - This license allows sharing and adaptation, with attribution to *IHerbSpec Protocol*.  
 - **Code and build files**: [MIT License](LICENSE)
