@@ -13,7 +13,7 @@ This repository contains the official release files for **IHerbSpec Protocol**, 
 | File                              | Description |
 |-----------------------------------|-------------|
 | `IHerbSpec Protocol*.pdf`     | Final formatted version of the protocol |
-| `IHerbSpec Protocol*.docx`    | Editable source document |
+| `IHerbSpec Protocol*.docx`    | Readable source document |
 | `IHerbSpec_metadata.csv`          | Metadata template containing all IHerbSpec Protocol fields |
 | `IHerbSpec_metadata-examples.csv` | Metadata template containing all IHerbSpec Protocol fields and example metadata records |
 | `IHerbSpecProtocol_TableA1.csv`   | Spreadsheet with representative metadata scoring examples from the IHerbSpec Protocol Table A1 |
