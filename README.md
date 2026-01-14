@@ -26,7 +26,7 @@ Visit [Zenodo](https://zenodo.org/records/17195920) or the [IHerbSpec website](h
 
 ## 📜 License
 - **Protocol text, figures, and tables**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
-  - This license allows sharing and adaptation, with attribution to *IHerbSpec Protocol*.  
+  - This license allows sharing and adaptation, with attribution to *IHerbSpec (2026)*.  
 - **Code and build files**: [MIT License](LICENSE)
 
 ---
