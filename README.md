@@ -24,7 +24,7 @@ Older version 1.1 of the IHerbSpec Protocol and appendix files are still availab
 
 ## 📌 Citation
 
-Visit the IHerbSpec Protocol website for the up to date citation: [https://iherbspec.github.io/protocol](https://iherbspec.github.io/protocol)]
+Visit the IHerbSpec Protocol website for the up to date citation: [https://iherbspec.github.io/protocol](https://iherbspec.github.io/protocol)
 
 ## 📜 License
 - **Protocol text, figures, and tables**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
